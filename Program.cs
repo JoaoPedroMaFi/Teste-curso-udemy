@@ -10,6 +10,8 @@ namespace HelloWorld
             Console.WriteLine(  );
             Console.WriteLine("----------------------------");
             Console.WriteLine("Bom dia!!");
+            Console.WriteLine("----------------------------");
+            Console.WriteLine("como voce esta hoje!!");
         }
     }
 }
